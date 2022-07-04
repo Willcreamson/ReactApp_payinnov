@@ -55,7 +55,7 @@ $ npm install axios
 ```
 ## Features
 
-- Make [`GET` Request](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) from the browser
+- Make `GET` Request from the browser
 - Supports the [Promise](https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd) API
 - Intercept request and response
 - Transform request and response data
