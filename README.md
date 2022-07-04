@@ -14,8 +14,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### First of all, download and install nodejs on your computer
 ![Nodejs](https://cdn-icons-png.flaticon.com/128/919/919825.png)
 - here is a link --> https://nodejs.org/en/download/
+
 ### Then create a React new App
-- ReactApp stuff
+![React App](https://cdn-icons-png.flaticon.com/128/919/919851.png)
+- here is a link --> https://create-react-app.dev/docs/getting-started/
+- Find the bash commands below
+
+```bash
+npx create-react-app my-app
+cd my-app
+npm start
+```
 
 ## Axios API
 ### Add axios to your librairies
@@ -23,7 +32,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 or 
 
-- Find the bash code below (windows OS only)
+- Find the bash command below (windows OS only)
 
 ```bash
 $ npm install axios
