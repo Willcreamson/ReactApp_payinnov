@@ -11,9 +11,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [CoinGecko API](#CoinGecko-api)
 
 ## Installing
-### First of all install nodejs on your computer
-
--[![Nodejs](https://nodejs.org/static/images/logos/nodejs-new-black.svg)
+### First of all, download and install nodejs on your computer
+-[![Nodejs](https://cdn-icons-png.flaticon.com/128/919/919825.png)
+- here is a link --> https://nodejs.org/en/download/
+### Then create a React new App
+- ReactApp stuff
 
 ## Axios API
 ### Add axios to your librairies
