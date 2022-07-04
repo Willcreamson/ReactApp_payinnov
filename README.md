@@ -55,7 +55,8 @@ $ npm install axios
 ```
 ## Features
 
-- Make `GET` Request from the browser
+- Make `GET` Request to get current bitcoin rate value
+- Update bitcoin current value on screen every 60 seconds with setInterval()
 - Supports the [Promise](https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd) API
 - Intercept request and response
 - Transform request and response data
