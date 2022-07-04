@@ -12,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Installing
 ### First of all, download and install nodejs on your computer
--![Nodejs](https://cdn-icons-png.flaticon.com/128/919/919825.png)
+![Nodejs](https://cdn-icons-png.flaticon.com/128/919/919825.png)
 - here is a link --> https://nodejs.org/en/download/
 ### Then create a React new App
 - ReactApp stuff
